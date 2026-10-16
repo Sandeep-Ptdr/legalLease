@@ -1,2 +1,98 @@
-Educational sample knowledge-base document � not official law.
-Useful rental clauses identify the parties and property, rent due date and method, allowed late charge, security deposit and return process, lease term and renewal, utilities and maintenance, visitor, pet, parking, alteration and subletting rules, notice and termination procedures, and a move-in inventory. When a lease expires, parties can agree to renew, move out, or continue periodically if contract and law allow. Notice periods depend on the contract, tenancy type and jurisdiction.
+TITLE:
+Residential Rental Agreement — India
+
+SCOPE:
+General educational information about residential rental agreements in India. Central-law rules are distinguished from state/UT requirements and practical drafting recommendations. This is not legal advice.
+
+STATUS CHECKED: 8 October 2026
+
+RECOMMENDED AGREEMENT CONTENTS
+
+The following are practical recommendations for making a rental agreement clear. They are not presented as universally mandatory statutory clauses.
+
+* Full legal names and contact details of the landlord and tenant.
+* Complete identification and description of the rented property, including address and relevant unit/flat details.
+* Tenancy/lease commencement date and agreed term.
+* Monthly rent, due date, payment method, and payment-record procedure.
+* Agreed terms for rent revision and renewal.
+* Security-deposit amount, permitted deductions, and agreed return process.
+* Allocation of electricity, water, gas, internet, society/association charges and other utilities.
+* Allocation of routine maintenance and repair responsibilities.
+* Names of permitted occupants and any rules concerning visitors.
+* Rules concerning pets, parking and use of common areas where relevant.
+* Restrictions or permissions concerning alterations, fixtures and structural changes.
+* Rules concerning assignment or subletting.
+* Landlord access and inspection arrangements.
+* Notice and termination provisions, subject to applicable law.
+* Procedure for reporting damage, defects and repairs.
+* Dispute-resolution procedure and applicable jurisdiction, where appropriate.
+* Registration and stamp-duty arrangements.
+* Move-in inventory, photographs and a written record of the property's condition.
+* Handover procedure and condition of the property when the tenancy ends.
+* Signatures of the parties and date of execution.
+
+LEGAL REQUIREMENTS
+
+Under Section 105 of the Transfer of Property Act, 1882, a lease is a transfer of a right to enjoy immovable property for a certain time, express or implied, or in perpetuity, in consideration of a price, money, share of crops, service or another thing of value. The Act calls the parties lessor and lessee and identifies premium and rent. Source: Transfer of Property Act, 1882, Section 105, India Code: [https://www.indiacode.nic.in/bitstream/123456789/14648/1/tpa.pdf](https://www.indiacode.nic.in/bitstream/123456789/14648/1/tpa.pdf)
+
+Section 107 of the Transfer of Property Act, 1882 provides that a lease of immovable property from year to year, for a term exceeding one year, or reserving a yearly rent can be made only by a registered instrument. Other leases may, subject to the statutory provision and applicable local law, be made by a registered instrument or by an oral agreement accompanied by delivery of possession. Source: Transfer of Property Act, 1882, Section 107, India Code: [https://www.indiacode.nic.in/bitstream/123456789/14648/1/tpa.pdf](https://www.indiacode.nic.in/bitstream/123456789/14648/1/tpa.pdf)
+
+Section 17(1)(d) of the Registration Act, 1908 lists leases of immovable property from year to year, for any term exceeding one year, or reserving a yearly rent among documents for which registration is compulsory, subject to the Act's provisions and exceptions. Source: Registration Act, 1908, Section 17(1)(d), India Code: [https://www.indiacode.nic.in/bitstream/123456789/14646/1/ra1908-16.pdf](https://www.indiacode.nic.in/bitstream/123456789/14646/1/ra1908-16.pdf)
+
+Where a lease is required to be registered, applicable stamp-duty and registration requirements must also be checked under the relevant State/UT law. The registration and stamp-duty rules are not identical across India.
+
+STATE- AND FACT-SPECIFIC ITEMS
+
+The applicable stamp duty, registration fees, e-stamping procedure and other execution requirements can depend on the State/UT, property and instrument. In Gujarat, property-document stamp duty is governed by State legislation, including the Gujarat Stamp Act framework. Current rates and procedures should be checked through the official Gujarat registration/stamp authorities before execution.
+
+A lease may also be affected by State/UT rent-control or tenancy legislation. Such legislation can impose requirements concerning written agreements, rent, deposits, termination, eviction, maintenance or dispute resolution that differ from the general central-law framework.
+
+The parties should check the property's location, lease term, nature of the property, applicable exemptions, current State/UT legislation, stamp duty and registration requirements.
+
+The Model Tenancy Act, 2021 is a model law and should not be treated as automatically applicable throughout India. Its provisions, including provisions concerning tenancy agreements and security deposits, should only be used as applicable-law rules after verifying adoption by the relevant State/UT.
+
+For Gujarat specifically, current adoption of the Model Tenancy Act should be separately verified before relying on it as Gujarat law.
+
+SECURITY DEPOSIT
+
+There is no verified general central-law rule establishing one universal security-deposit amount, deposit cap or refund period for every residential rental agreement in India.
+
+The Model Tenancy Act, 2021 proposes a security-deposit limit of up to two months' rent for residential premises and provides for refund when vacant possession is taken, after permitted deductions. These are model-law provisions and must not be presented as generally applicable Indian law.
+
+Source: Model Tenancy Act, 2021, Section 11, Ministry of Housing and Urban Affairs: [https://www.mohua.gov.in/upload/whatsnew/60b7acb90a086Model-Tenancy-Act-English-02.06.2021.pdf](https://www.mohua.gov.in/upload/whatsnew/60b7acb90a086Model-Tenancy-Act-English-02.06.2021.pdf)
+
+RENT, MAINTENANCE AND ACCESS
+
+Rent amount, payment date, utilities, maintenance, repairs, access and inspection arrangements should be clearly recorded in the agreement, subject to mandatory provisions of applicable law.
+
+Section 108 of the Transfer of Property Act, 1882 contains default rights and liabilities of lessors and lessees in the absence of a contrary contract or local usage. Section 108(m) includes a limited right for the lessor to enter at reasonable times during the lease to inspect the property's condition and give or leave notice of defects. Source: Transfer of Property Act, 1882, Section 108, India Code: [https://www.indiacode.nic.in/bitstream/123456789/14648/1/tpa.pdf](https://www.indiacode.nic.in/bitstream/123456789/14648/1/tpa.pdf)
+
+LIMITATIONS
+
+No single rental-agreement format or set of clauses is legally mandatory for every residential tenancy in India.
+
+Registration requirements depend on the lease term, instrument and applicable law. State/UT laws may impose additional requirements.
+
+Stamp-duty rates, registration fees and procedures are jurisdiction-specific and can change. Verify the current official State/UT rules before execution.
+
+Rent-control and tenancy legislation may apply differently depending on the location, property, date of tenancy and other facts.
+
+Occupant, visitor, pet, parking, alteration and subletting provisions can depend on the agreement, applicable tenancy law, property rules and housing-society/association rules.
+
+The Model Tenancy Act, 2021 is not automatically applicable throughout India.
+
+A practical checklist or model clause should not be treated as a guarantee that an agreement is legally valid or suitable for a particular tenancy.
+
+SOURCES
+
+Transfer of Property Act, 1882 — Sections 105 and 107. India Code: [https://www.indiacode.nic.in/bitstream/123456789/14648/1/tpa.pdf](https://www.indiacode.nic.in/bitstream/123456789/14648/1/tpa.pdf)
+
+Transfer of Property Act, 1882 — Section 108. India Code: [https://www.indiacode.nic.in/bitstream/123456789/14648/1/tpa.pdf](https://www.indiacode.nic.in/bitstream/123456789/14648/1/tpa.pdf)
+
+Registration Act, 1908 — Section 17(1)(d). India Code: [https://www.indiacode.nic.in/bitstream/123456789/14646/1/ra1908-16.pdf](https://www.indiacode.nic.in/bitstream/123456789/14646/1/ra1908-16.pdf)
+
+Model Tenancy Act, 2021 — Section 11 and tenancy-agreement provisions. Ministry of Housing and Urban Affairs: [https://www.mohua.gov.in/upload/whatsnew/60b7acb90a086Model-Tenancy-Act-English-02.06.2021.pdf](https://www.mohua.gov.in/upload/whatsnew/60b7acb90a086Model-Tenancy-Act-English-02.06.2021.pdf)
+
+India Code — official central legislation database: [https://www.indiacode.gov.in/](https://www.indiacode.gov.in/)
+
+Date checked for the above sources: 8 October 2026.

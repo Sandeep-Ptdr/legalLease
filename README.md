@@ -1,34 +1,47 @@
-# Legal Lease RAG Assistant
+# LegalLease
 
-A simple MERN minor-project assistant for rental and lease questions. React provides the chat interface, Node/Express runs the RAG pipeline, and MongoDB optionally stores chat history. MongoDB is never used to store embeddings or run vector search.
-
-## Architecture
-
-`Documents ? chunking ? local embeddings.json ? query embedding ? cosine similarity ? relevant context ? LLM answer`
-
-This project intentionally has no vector database. With a small educational document collection, JSON embeddings on the local machine and direct cosine-similarity search are sufficient and easy to explain in a viva. The server loads the embedding file once at startup and generates only a query embedding for each question.
-
-The included deterministic Node.js embedding function is offline-friendly for a college demo. It can later be replaced by a sentence-embedding provider without changing the local storage or retrieval design. The included documents are educational samples, not official law.
+A small React and Express assistant for Indian rental and lease questions. It uses a local JSON knowledge base and offline embeddings first, then runs a web search when local matches are insufficient. Groq can optionally turn retrieved passages into a conversational answer; without Groq, the app returns the supporting excerpts directly. MongoDB is optional and is only used to save chat history.
 
 ## Run
 
-```bash
+Install dependencies once in each application folder:
+
+```powershell
 cd backend
 npm install
-copy .env.example .env
-npm run rebuild
+Copy-Item .env.example .env
 npm run dev
+```
 
-# In another terminal
+In a second terminal:
+
+```powershell
 cd frontend
 npm install
 npm run dev
 ```
 
-Open the Vite URL. API endpoints: `GET /api/health`, `POST /api/chat`, `GET /api/rag/status`, and `POST /api/rag/rebuild`.
+Open the Vite URL printed by the frontend. The API listens on port 5000 by default. Set `VITE_API_URL` in `frontend/.env` only when the API is hosted elsewhere.
 
-Set `MONGODB_URI` to persist questions and answers. Set `LLM_API_KEY`, `LLM_MODEL`, and optionally `LLM_BASE_URL` to enable an OpenAI-compatible LLM. Without an LLM key, the API returns a clearly labelled evidence-based local fallback response.
+## Knowledge and integrations
 
-## Web fallback
+Add structured entries to `backend/data/knowledge-base.json` or place plain-text `.txt` files in `backend/data/documents`. Both sources are chunked and embedded when you run `npm run rebuild` from `backend`; the generated index is saved to `backend/data/embeddings/embeddings.json`.
 
-When local retrieval has insufficient similarity, the API explicitly reports that it could not verify an answer from the local knowledge base. For production, integrate a configured search provider that returns official government, court, or legislation URLs; do not treat random web pages as legal authority.
+Live web fallback uses DuckDuckGo HTML search and needs an internet connection. Search results and snippets are shown as links and are not treated as verified legal advice. Set `GROQ_API_KEY` in `backend/.env` to enable optional Groq-generated answers; the app remains usable without it. Set `MONGODB_URI` to save chat history; if MongoDB is unavailable, chat still works without history.
+
+API endpoints: `GET /api/health`, `GET /api/rag/status`, `POST /api/rag/rebuild`, and `POST /api/chat`.
+
+## Checks
+
+```powershell
+cd backend
+npm test
+```
+
+```powershell
+cd frontend
+npm run lint
+npm run build
+```
+
+All answers are general educational information, not legal advice. Tenancy, registration, stamp duty, notice, and deposit rules depend on current law and the property's jurisdiction; verify consequential matters with official sources or a qualified local lawyer.

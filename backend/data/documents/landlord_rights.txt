@@ -1,2 +1,113 @@
-Educational sample knowledge-base document � not official law.
-A landlord normally provides the property in the condition promised and should address maintenance affecting the agreed use of the home. The agreement should allocate routine upkeep, utilities and responsibility for tenant-caused damage. Whether rent can increase during a fixed lease depends on the agreement and applicable law. Ending a tenancy or seeking eviction generally needs notice and a lawful process; grounds, deadlines and procedures are jurisdiction-specific.
+landlord_rights.txt
+
+TITLE: Residential Landlord Rights and Responsibilities — Gujarat, India
+
+STATUS CHECKED: 8 October 2026
+
+IMPORTANT STATUS NOTE
+
+The Model Tenancy Act, 2021 is a central model law circulated to States/UTs for adoption. It is not automatically applicable in Gujarat. The Ministry of Housing and Urban Affairs states that States/UTs must adopt it through their own legislation or amendment. I did not verify a Gujarat enactment adopting the Model Tenancy Act, 2021. Therefore, the Model Tenancy Act should not be treated as Gujarat law. Source: [Model Tenancy Act, 2021 — Ministry of Housing and Urban Affairs](https://mohua.gov.in/upload/uploadfiles/files/Model-Tenancy-Act-English-02_06_2021.pdf?utm_source=chatgpt.com). Date checked: 8 October 2026.
+
+The Gujarat Rents, Hotel and Lodging House Rates Control Act, 1947 historically governed rent control, repairs and eviction in covered premises. The India Code version states that the Act's duration was subject to extensions and also contains exemptions, including important exemptions concerning premises constructed after the Gujarat 2001 amendment. Because the current post-31 March 2026 status and application to a particular property must be checked against the latest Gujarat legislation/Gazette, the 1947 Act should not automatically be treated as governing every residential tenancy in Gujarat in 2026. Source: [Gujarat Rents, Hotel and Lodging House Rates Control Act, 1947 — India Code](https://www.indiacode.nic.in/bitstream/123456789/4655/1/rentshotelact.pdf?utm_source=chatgpt.com). Date checked: 8 October 2026.
+
+LANDLORD ACCESS, INSPECTION AND NOTICE
+
+For an ordinary lease governed by the Transfer of Property Act, 1882, the Act does not provide a general Gujarat-specific statutory right allowing a landlord unrestricted entry into a rented residential property. Entry rights can depend on the tenancy agreement and the applicable local tenancy law.
+
+The Model Tenancy Act, 2021 contains specific provisions concerning landlord/tenant rights, including entry for inspection and repairs, but it is only a model law unless adopted by the relevant State/UT. It should therefore not be used as a Gujarat-law rule without verifying adoption.
+
+For Gujarat: Not verified; check the current local law and the tenancy agreement before stating a specific statutory notice period for landlord inspection or entry.
+
+Source: [Transfer of Property Act, 1882 — India Code](https://www.indiacode.nic.in/bitstream/123456789/14037/1/transfer_of_property_act8_%281%29.pdf?utm_source=chatgpt.com). Sections 105–108 concern leases and the rights and liabilities of lessor and lessee. Date checked: 8 October 2026.
+
+MAINTENANCE AND REPAIRS
+
+The Gujarat Rents, Hotel and Lodging House Rates Control Act, 1947 contains Section 23, titled "Landlord's duty to keep premises in good repair." This provision is part of the historical Gujarat rent-control framework. Its applicability to a particular property in Gujarat in 2026 must be separately verified because the Act contains exemptions and its statutory duration has changed through amendments.
+
+Source: [Gujarat Rents, Hotel and Lodging House Rates Control Act, 1947 — India Code](https://www.indiacode.nic.in/bitstream/123456789/4655/1/rentshotelact.pdf?utm_source=chatgpt.com). Section 23. Date checked: 8 October 2026.
+
+The Model Tenancy Act, 2021 proposes a division of maintenance responsibilities between landlord and tenant, subject to the tenancy agreement. It should be treated only as a model-law reference unless Gujarat has adopted it.
+
+Source: [Model Tenancy Act, 2021 — Ministry of Housing and Urban Affairs](https://mohua.gov.in/upload/uploadfiles/files/Model-Tenancy-Act-English-02_06_2021.pdf?utm_source=chatgpt.com). Date checked: 8 October 2026.
+
+RENT, RENT CHANGES AND PAYMENT DEFAULTS
+
+The Transfer of Property Act, 1882 defines a lease and rent in Section 105. Section 108 sets out statutory rights and liabilities of lessors and lessees, subject to the contract or local law.
+
+Source: [Transfer of Property Act, 1882 — India Code](https://www.indiacode.nic.in/bitstream/123456789/14037/1/transfer_of_property_act8_%281%29.pdf?utm_source=chatgpt.com). Sections 105 and 108. Date checked: 8 October 2026.
+
+Rent increases and payment-default consequences in Gujarat can depend on the applicable tenancy law, whether the property is covered by a rent-control statute, the tenancy agreement, and the facts of the tenancy.
+
+For a current Gujarat-wide statutory rent-increase rule applicable to every residential tenancy: Not verified; check the current local law and the tenancy agreement.
+
+For a current Gujarat-wide statutory procedure for dealing with rent arrears in every residential tenancy: Not verified; check the current local law, tenancy agreement and applicable court procedure.
+
+ENDING A TENANCY AND EVICTION
+
+Under Section 106 of the Transfer of Property Act, 1882, where there is no contract, local law or usage to the contrary, a lease for a purpose other than agriculture or manufacturing is generally treated as month-to-month and may be terminated by fifteen days' written notice expiring with the end of the tenancy month. The section also prescribes requirements concerning the form and delivery of notice.
+
+This rule is expressly subject to a contrary contract, local law or usage. It therefore should not be presented as an unconditional eviction rule for every Gujarat tenancy.
+
+Source: [Transfer of Property Act, 1882 — India Code](https://www.indiacode.nic.in/bitstream/123456789/14037/1/transfer_of_property_act8_%281%29.pdf?utm_source=chatgpt.com). Section 106. Date checked: 8 October 2026.
+
+A lease from year to year, for a term exceeding one year, or reserving yearly rent generally requires a registered instrument under Section 107 of the Transfer of Property Act, 1882.
+
+Source: [Transfer of Property Act, 1882 — India Code](https://www.indiacode.nic.in/bitstream/123456789/14037/1/transfer_of_property_act8_%281%29.pdf?utm_source=chatgpt.com). Section 107. Date checked: 8 October 2026.
+
+The Registration Act, 1908 also identifies leases from year to year, leases for terms exceeding one year, and leases reserving yearly rent as documents requiring registration, subject to the statutory provisions and exceptions.
+
+Source: [Registration Act, 1908 — India Code](https://www.indiacode.nic.in/bitstream/123456789/14646/1/ra1908-16.pdf?utm_source=chatgpt.com). Section 17(1)(d). Date checked: 8 October 2026.
+
+A landlord should not be described as having an automatic right to physically evict a tenant without following the applicable legal process. The exact forum, grounds, notice requirements and procedure depend on the applicable tenancy law, agreement, property and facts.
+
+For a current Gujarat-specific eviction procedure applicable to all residential premises: Not verified; check the current local law and competent court/authority.
+
+SECURITY DEPOSIT
+
+The Model Tenancy Act, 2021 contains provisions dealing with security deposits, but it is a model law and does not automatically apply in Gujarat.
+
+Source: [Model Tenancy Act, 2021 — Ministry of Housing and Urban Affairs](https://mohua.gov.in/upload/uploadfiles/files/Model-Tenancy-Act-English-02_06_2021.pdf?utm_source=chatgpt.com). Date checked: 8 October 2026.
+
+For a current Gujarat-wide statutory security-deposit cap, mandatory refund period, or universal deduction procedure applicable to ordinary residential tenancies: Not verified; check the current local law and tenancy agreement.
+
+Any statement about the amount, permitted deductions, adjustment against unpaid rent, or refund of a security deposit should be tied to the applicable tenancy agreement and currently applicable law rather than to the Model Tenancy Act unless Gujarat adoption is verified.
+
+OFFICIAL DISPUTE-RESOLUTION ROUTES
+
+The appropriate dispute-resolution forum depends on the applicable tenancy legislation, the property and the type of dispute.
+
+The Gujarat rent-control legislation historically contains provisions concerning jurisdiction of courts and appeals. Because the current applicability of that legislation to a particular residential tenancy in Gujarat in 2026 must be established first, a specific forum should not be asserted without checking the current law.
+
+Source: [Gujarat Rents, Hotel and Lodging House Rates Control Act, 1947 — India Code](https://www.indiacode.nic.in/bitstream/123456789/4655/1/rentshotelact.pdf?utm_source=chatgpt.com). Sections 28 and 29. Date checked: 8 October 2026.
+
+The Model Tenancy Act, 2021 proposes a Rent Authority, Rent Court and Rent Tribunal dispute-resolution structure. This is a model-law framework and must not be represented as the current Gujarat dispute-resolution system unless Gujarat adoption is separately verified.
+
+Source: [Model Tenancy Act, 2021 — Ministry of Housing and Urban Affairs](https://mohua.gov.in/upload/uploadfiles/files/Model-Tenancy-Act-English-02_06_2021.pdf?utm_source=chatgpt.com). Date checked: 8 October 2026.
+
+PROPERTY- AND FACT-SPECIFIC LIMITATIONS
+
+The applicable legal position can change depending on the date and terms of the tenancy, type and location of property, construction date, whether the premises falls within an exemption, whether the tenancy is residential or commercial, and whether a special local law applies.
+
+The Gujarat Rents, Hotel and Lodging House Rates Control Act, 1947 contains specific exemptions and therefore should not be applied merely because a property is located in Gujarat.
+
+Source: [Gujarat Rents, Hotel and Lodging House Rates Control Act, 1947 — India Code](https://www.indiacode.nic.in/bitstream/123456789/4655/1/rentshotelact.pdf?utm_source=chatgpt.com). Section 4. Date checked: 8 October 2026.
+
+MODEL-LAW STATUS
+
+The Model Tenancy Act, 2021 is not a central tenancy statute automatically applicable throughout India. MoHUA states that it was circulated to States and UTs for adoption through fresh legislation or amendment of existing rental laws.
+
+Source: [MoHUA — Model Tenancy Act policy information](https://mohua.gov.in/upload/uploadfiles/files/dec-2023-english.pdf?utm_source=chatgpt.com). Date checked: 8 October 2026.
+
+For Gujarat, no verified primary-source evidence was located establishing that the Model Tenancy Act, 2021 itself is currently in force as Gujarat law. Therefore: Do not state that the Model Tenancy Act applies in Gujarat without verifying the latest Gujarat legislation and Gazette notification.
+
+NOT VERIFIED ITEMS
+
+Current Gujarat statutory rules on landlord inspection notice: Not verified; check the current local law.
+
+Current Gujarat statutory security-deposit cap/refund period for ordinary residential tenancies: Not verified; check the current local law.
+
+Current Gujarat-wide rent-increase procedure applicable to every residential tenancy: Not verified; check the current local law.
+
+Current Gujarat-wide eviction forum and procedure applicable to every residential tenancy: Not verified; check the current local law and property-specific applicability.
+
+Current Gujarat adoption of the Model Tenancy Act, 2021: Not verified; do not treat the Model Tenancy Act as Gujarat law without a current Gujarat enactment/notification.

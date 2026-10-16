@@ -1,0 +1,97 @@
+[
+  {
+    "id": "lease-basics",
+    "title": "Rental and lease agreement basics",
+    "jurisdiction": "India",
+    "source": "LegalLease educational knowledge base",
+    "content": "A rental agreement or lease is a contract between a property owner or authorized landlord and a tenant. It should identify the home, parties, rent, payment date, security deposit, duration, utilities, maintenance expectations, renewal, termination and notice requirements. Before signing, read every clause and fill blank spaces. Confirm occupants, pets, parking, subletting, repairs and a move-in condition inventory. A fixed-term lease runs for its stated period; a periodic tenancy continues until ended with required notice."
+  },
+  {
+    "id": "tenant-records-and-condition",
+    "title": "Tenant records and move-in condition",
+    "jurisdiction": "India",
+    "source": "LegalLease educational knowledge base",
+    "content": "Keep a signed copy of the rental agreement and receipts or other records of rent payments. Before moving in, both parties should record the property's condition with dated photographs and an inventory. Tenants should keep the property reasonably clean, avoid damage beyond normal wear, and promptly report repair needs."
+  },
+  {
+    "id": "security-deposits",
+    "title": "Security deposits",
+    "jurisdiction": "India",
+    "source": "LegalLease educational knowledge base",
+    "content": "A security deposit is money held under a rental arrangement to address matters such as unpaid rent or damage beyond normal wear and tear. The agreement and applicable local law determine how much may be collected, which deductions may be made, and when and how the balance is returned. Record the amount paid and ask for the return process in writing. Do not assume a single deposit limit applies throughout India."
+  },
+  {
+    "id": "maintenance-and-repairs",
+    "title": "Maintenance and repairs",
+    "jurisdiction": "India",
+    "source": "LegalLease educational knowledge base",
+    "content": "The rental agreement should explain how routine upkeep, utilities, and tenant-caused damage are handled. A landlord normally provides the property in the condition promised and should address maintenance affecting the agreed use of the home. Responsibilities and remedies depend on the agreement, facts, and applicable local law. Report repair issues promptly and keep a written record."
+  },
+  {
+    "id": "landlord-and-tenant-responsibilities",
+    "title": "Landlord and tenant responsibilities",
+    "jurisdiction": "India",
+    "source": "LegalLease educational knowledge base",
+    "content": "Tenants normally pay rent on time, use the property as agreed, keep it reasonably clean, avoid damage beyond normal wear, and report repair needs. Landlords should provide the property in the condition promised and meet the responsibilities set by the agreement and applicable law. The specific obligations depend on the agreement, property, facts, and jurisdiction."
+  },
+  {
+    "id": "rent-revision-and-renewal",
+    "title": "Rent revisions and renewals",
+    "jurisdiction": "India",
+    "source": "LegalLease educational knowledge base",
+    "content": "Whether rent can change during a fixed lease depends on the agreement and applicable law. Review any rent-revision clause, including its timing and calculation. Before expiry, the parties can discuss renewal, moving out, or another arrangement. Do not assume a rent increase or renewal rule is identical across states or agreements."
+  },
+  {
+    "id": "ending-a-tenancy",
+    "title": "Notice and ending a tenancy",
+    "jurisdiction": "India",
+    "source": "LegalLease educational knowledge base",
+    "content": "The agreement should identify how either party gives notice and what happens at the end of the term. Notice periods and termination rights depend on the contract, tenancy type, facts, and jurisdiction. Ending a tenancy or seeking eviction generally requires following the applicable lawful process. Do not rely on a generic notice period or take self-help action; check current local requirements or get qualified legal advice for a dispute."
+  },
+  {
+    "id": "agreement-review-checklist",
+    "title": "Rental agreement review checklist",
+    "jurisdiction": "India",
+    "source": "LegalLease educational knowledge base",
+    "content": "Before signing, check that the agreement identifies the parties and property; rent amount, due date and payment method; security deposit and return process; lease term and renewal; utilities and maintenance; occupants, visitors, pets, parking, alterations and subletting; notice and termination process; and a move-in condition inventory. Resolve blank fields and unclear clauses before signing. A checklist is not a substitute for review of the actual agreement."
+  },
+  {
+    "id": "registration-and-stamp-duty",
+    "title": "Registration and stamp duty questions",
+    "jurisdiction": "India",
+    "source": "LegalLease educational knowledge base",
+    "content": "Registration and stamp-duty requirements for a rental or lease agreement can depend on the term, document, property, state rules, and current law. Do not rely on a one-size-fits-all statement or fee estimate. Check the current state registration department and official legislation for the property's location, or consult a qualified local professional."
+  },
+  {
+    "id": "model-tenancy-act-overview",
+    "title": "Model Tenancy Act 2021 overview",
+    "jurisdiction": "India",
+    "source": "NITI for States",
+    "sourceUrl": "https://www.nitiforstates.gov.in/policy-viewer?id=ANC518L000265",
+    "content": "NITI for States describes the Model Tenancy Act 2021 as intended to address challenges faced by landlords and tenants and promote a balanced, transparent rental housing market. This general overview does not establish which rules apply to a particular property. Check current official state or union territory requirements before relying on any tenancy rule."
+  },
+  {
+    "id": "transfer-property-act-lease-definition",
+    "title": "How Indian law defines a lease",
+    "jurisdiction": "India",
+    "source": "Transfer of Property Act, 1882, section 105 (India Code)",
+    "sourceUrl": "https://www.indiacode.nic.in/show-data?actid=AC_CEN_3_20_00042_188204_1523272233671&orderno=113",
+    "content": "Section 105 of the Transfer of Property Act, 1882 defines a lease of immovable property as a transfer of the right to enjoy that property for a specified or implied period, or in perpetuity, in return for a price or other agreed consideration. This is a general statutory definition; the agreement and applicable local law determine the parties' specific rights and duties. Verify the current law applicable to the property's state or union territory."
+  },
+  {
+    "id": "transfer-property-act-lease-registration",
+    "title": "Registration form for certain leases",
+    "jurisdiction": "India",
+    "source": "Transfer of Property Act, 1882, section 107 (India Code)",
+    "sourceUrl": "https://www.indiacode.nic.in/show-data?actid=AC_CEN_3_20_00042_188204_1523272233671&sectionId=44212&sectionno=107&orderno=115",
+    "content": "Section 107 of the Transfer of Property Act, 1882 says that a lease of immovable property from year to year, for a term exceeding one year, or reserving yearly rent can be made only by a registered instrument. The section also describes how other leases may be made. State amendments, other applicable laws, and the facts of the tenancy can matter, so check current local requirements before signing or relying on a lease."
+  },
+  {
+    "id": "model-tenancy-act-mohua-source",
+    "title": "MoHUA Model Tenancy Act 2021 source",
+    "jurisdiction": "India",
+    "source": "Ministry of Housing and Urban Affairs, Model Tenancy Act 2021",
+    "sourceUrl": "https://www.mohua.gov.in/pdf/ModelTenancyActEnglish.pdf",
+    "content": "The Ministry of Housing and Urban Affairs publishes the Model Tenancy Act, 2021 as a model framework concerning rental premises and landlord-tenant relations. A model act should not be assumed to apply identically to every tenancy across India. Whether and how its provisions apply depends on the current law adopted for the property's state or union territory. Check the applicable official state or union territory legislation and rules."
+  }
+]

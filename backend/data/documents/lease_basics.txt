@@ -1,2 +1,99 @@
-Educational sample knowledge-base document � not official law.
-A rental agreement or lease is a contract between a property owner or authorized landlord and a tenant. It should identify the home, parties, rent, payment date, security deposit, duration, utilities, maintenance expectations, renewal, termination and notice requirements. Before signing, read every clause and fill blank spaces. Confirm occupants, pets, parking, subletting, repairs and a move-in condition inventory. A fixed-term lease runs for its stated period; a periodic tenancy continues until ended with required notice.
+TITLE:
+Lease Basics for Residential Rentals in India
+
+SCOPE:
+General central-law information for residential leases of immovable property in India. State-specific rent-control, tenancy, registration, stamp-duty and other local rules may modify or supplement these rules.
+
+STATUS CHECKED: 8 October 2026
+
+LEASE DEFINITION
+
+Section 105 of the Transfer of Property Act, 1882 defines a lease of immovable property as a transfer of a right to enjoy the property, made for a specified time, express or implied, or in perpetuity, in consideration of a price paid or promised, or of money, a share of crops, service or another thing of value, to be rendered periodically or on specified occasions by the transferee to the transferor.
+
+The person transferring the right is the lessor and the person accepting it is the lessee. The consideration is commonly called premium and/or rent, depending on the arrangement.
+
+The Act applies subject to its own provisions and to applicable local laws, contracts and exceptions.
+
+DURATION AND NOTICE
+
+Section 106 of the Transfer of Property Act, 1882 provides default rules when there is no contract, local law or usage to the contrary.
+
+For leases of immovable property for agricultural or manufacturing purposes, the default is a lease from year to year, terminable by six months' notice.
+
+For leases for other purposes, including ordinary residential purposes, the default is a lease from month to month, terminable by fifteen days' notice.
+
+Under Section 106(2), the notice period begins from the date the notice is received. Section 106(3) provides a specific rule concerning a notice whose stated period is shorter than the statutory period when a suit or proceeding is filed after expiry of the statutory period. Section 106(4) requires the notice to be in writing and signed, and specifies permitted methods of sending, tendering, delivering or affixing the notice.
+
+These are default rules only. A written lease, applicable local law or local usage may provide otherwise. State-specific tenancy or rent-control legislation can also affect termination and eviction.
+
+REGISTRATION
+
+Section 107 of the Transfer of Property Act, 1882 provides that a lease of immovable property from year to year, for a term exceeding one year, or reserving a yearly rent can be made only by a registered instrument.
+
+For other leases, Section 107 permits a registered instrument or, subject to the statutory wording and applicable law, an oral agreement accompanied by delivery of possession.
+
+Section 17(1)(d) of the Registration Act, 1908 separately lists leases of immovable property from year to year, for any term exceeding one year, or reserving a yearly rent among documents requiring registration. Section 17 contains statutory qualifications and exceptions, including a proviso concerning certain leases.
+
+State amendments, exemptions, stamp-duty requirements and local registration rules should be checked for the particular property and transaction.
+
+LANDLORD AND TENANT DUTIES
+
+Section 108 of the Transfer of Property Act, 1882 sets out rights and liabilities of lessor and lessee in the absence of a contract or local usage to the contrary, and only to the extent applicable to the property.
+
+The lessor must disclose certain material defects in the property relating to its intended use that the lessee does not know and could not discover with ordinary care. The lessor must also put the lessee in possession when requested. Subject to the statutory conditions, the lessor is expected to allow the lessee to hold the property without interruption during the lease term.
+
+The lessee must pay or tender rent at the proper time and place. The lessee must keep the property in the required condition and, on termination, restore it subject to reasonable wear and tear and irresistible force.
+
+Section 108(m) provides that the lessee must allow the lessor and the lessor's agents, at all reasonable times during the term, to enter the property and inspect its condition and give or leave notice of defects. This is a limited statutory inspection provision; it should not be interpreted as an unlimited right of entry.
+
+Section 108(f) also provides a remedy where the lessor neglects, after notice and within a reasonable time, to make repairs that the lessor is bound to make: subject to the section, the lessee may make the repairs and deduct the expense with interest from rent or otherwise recover it from the lessor.
+
+The exact allocation of repairs, maintenance, access, utilities and other responsibilities can also depend on the rental agreement and applicable local law.
+
+AGREEMENT CHECKLIST
+
+The following is a practical checklist, not a statement that each item is universally required by central law:
+
+* Full names and contact details of landlord and tenant.
+* Complete description and address of the rented property.
+* Start date and agreed duration.
+* Monthly rent and payment date.
+* Accepted payment method and payment record procedure.
+* Security deposit amount and agreed refund/adjustment terms.
+* Notice period and procedure for ending the agreement.
+* Permitted residential use and restrictions on other uses.
+* Maintenance and repair responsibilities.
+* Utility and service-charge responsibilities.
+* Landlord inspection/access arrangements.
+* Rules concerning alterations, fixtures and permanent structures.
+* Subletting or assignment rules.
+* Renewal terms, if applicable.
+* Consequences of late or missed payments.
+* Inventory, furniture and appliances supplied with the property.
+* Condition of the property at handover.
+* Procedure for reporting defects and requesting repairs.
+* Handover procedure when the tenancy ends.
+* Signatures and date of the agreement.
+* Registration and stamp-duty requirements applicable to the particular transaction.
+
+LIMITATIONS
+
+The Transfer of Property Act provides general central-law rules, but residential tenancy law can vary by State/UT and by property. Rent-control legislation, tenancy legislation, municipal rules, stamp laws, registration rules and special exemptions may apply.
+
+Section 106's fifteen-day/month-to-month default should not be presented as an automatic termination rule for every residential tenancy. Always check the written agreement and applicable local law.
+
+Section 107 and Section 17 of the Registration Act should be read together with applicable State registration, stamp-duty and exemption rules.
+
+The Model Tenancy Act, 2021 is a model law and is not automatically applicable throughout India. Its provisions should not be presented as applicable law in a State/UT unless adoption has been verified.
+
+For any specific tenancy, verify the State/UT, property type, location, agreement terms, lease duration, applicable exemptions and current local legislation before relying on these general rules.
+
+SOURCES
+
+Transfer of Property Act, 1882 — Sections 105, 106, 107 and 108. India Code, Ministry of Law and Justice. Full text: [https://www.indiacode.nic.in/bitstream/123456789/14648/1/tpa.pdf](https://www.indiacode.nic.in/bitstream/123456789/14648/1/tpa.pdf)
+
+Registration Act, 1908 — Section 17(1)(d). India Code, Ministry of Law and Justice. Full text: [https://www.indiacode.nic.in/bitstream/123456789/14646/1/ra1908-16.pdf](https://www.indiacode.nic.in/bitstream/123456789/14646/1/ra1908-16.pdf)
+
+India Code — official central legislation portal: [https://www.indiacode.gov.in/](https://www.indiacode.gov.in/)
+
+Date checked for all sources: 8 October 2026.

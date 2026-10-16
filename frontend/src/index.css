@@ -1,2 +1,2 @@
 @import "tailwindcss";
-html{background:#f7f6f0}
+html { background: var(--page); }

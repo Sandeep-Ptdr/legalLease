@@ -1,2 +1,110 @@
-Educational sample knowledge-base document � not official law.
-A tenant should receive a clear written agreement and keep payment receipts and a signed copy. Tenants normally pay rent on time, keep the property reasonably clean, avoid damage beyond normal wear, and promptly report repair needs. A security deposit is money held to address unpaid rent or damage beyond normal wear and tear, subject to the agreement and applicable local law. Before moving in, both parties should record the property's condition with dated photographs and an inventory. Ask when and how the deposit is returned and what deductions can be made.
+TITLE:
+Residential Tenant Rights and Responsibilities in Gujarat, India
+
+JURISDICTION:
+Gujarat, India
+
+STATUS CHECKED: 8 October 2026
+
+VERIFIED TENANT RIGHTS
+
+CURRENT STATUS OF GUJARAT RENT LAW
+
+The Gujarat Rents, Hotel and Lodging House Rates Control Act, 1947 is listed in India Code as a Gujarat enactment. Its provisions include protections concerning rent, possession, repairs, essential services and rent receipts. The Act's applicability must still be checked for the particular premises because the Act contains exemptions and has had amendments concerning its duration and scope.
+
+The Gujarat Rent Bill, 2026 was passed by the Gujarat Legislative Assembly in September 2026, but current official evidence of Governor's assent and commencement was not verified. Therefore, it is not treated here as an enacted law currently governing tenants. Current reporting also states that the Government assured the Gujarat High Court that the Bill would not receive the Governor's assent in its then-current form. This is reported information, not a substitute for an official assent/commencement notification.
+
+Source for existing legislation: Gujarat Rents, Hotel and Lodging House Rates Control Act, 1947, India Code: [https://www.indiacode.nic.in/bitstream/123456789/4655/1/rentshotelact.pdf](https://www.indiacode.nic.in/bitstream/123456789/4655/1/rentshotelact.pdf)
+
+RENT RECEIPTS
+
+Section 26 of the Gujarat Rents, Hotel and Lodging House Rates Control Act, 1947 requires a landlord to give a written receipt for any amount received in respect of the premises, in the prescribed form and manner.
+
+This protection is subject to the Act applying to the particular premises.
+
+Source: Gujarat Rents, Hotel and Lodging House Rates Control Act, 1947, Section 26: [https://www.indiacode.nic.in/bitstream/123456789/4655/1/rentshotelact.pdf](https://www.indiacode.nic.in/bitstream/123456789/4655/1/rentshotelact.pdf)
+
+ESSENTIAL SERVICES
+
+Section 24 provides that a landlord must not, without just or sufficient cause, cut off or withhold an essential supply or service enjoyed by the tenant.
+
+The section identifies essential supplies/services to include water, electricity, lights in passages and staircases, lifts, and conservancy or sanitary service. A tenant may apply to the Court for restoration where the statutory conditions are satisfied.
+
+This protection is subject to the Act's applicability to the premises.
+
+Source: Gujarat Rents, Hotel and Lodging House Rates Control Act, 1947, Section 24: [https://www.indiacode.nic.in/bitstream/123456789/4655/1/rentshotelact.pdf](https://www.indiacode.nic.in/bitstream/123456789/4655/1/rentshotelact.pdf)
+
+MAINTENANCE AND REPAIRS
+
+Section 23 of the Gujarat Rents, Hotel and Lodging House Rates Control Act, 1947 addresses the landlord's duty to keep premises in good repair.
+
+The precise statutory repair mechanism and its applicability depend on the Act and the particular premises. Tenants should report defects and repair requests in a way that creates a record.
+
+Source: Gujarat Rents, Hotel and Lodging House Rates Control Act, 1947, Section 23: [https://www.indiacode.nic.in/bitstream/123456789/4655/1/rentshotelact.pdf](https://www.indiacode.nic.in/bitstream/123456789/4655/1/rentshotelact.pdf)
+
+PROTECTION AGAINST RECOVERY OF POSSESSION
+
+Section 12 of the Gujarat Rents, Hotel and Lodging House Rates Control Act, 1947 contains restrictions on a landlord's recovery of possession of covered premises. The protection is subject to the grounds and conditions specified by the Act, including provisions dealing with rent payment and other statutory grounds.
+
+A tenant should not assume that every tenancy in Gujarat receives the same protection because the Act contains exemptions and property-specific conditions.
+
+Source: Gujarat Rents, Hotel and Lodging House Rates Control Act, 1947, Section 12: [https://www.indiacode.nic.in/bitstream/123456789/4655/1/rentshotelact.pdf](https://www.indiacode.nic.in/bitstream/123456789/4655/1/rentshotelact.pdf)
+
+TENANT RESPONSIBILITIES
+
+Under Section 108 of the Transfer of Property Act, 1882, applicable default duties of a lessee include paying rent at the proper time and place, using the property consistently with the lease, taking reasonable care of the property, and handing possession back after termination subject to the statutory rules.
+
+These are default central-law rules and can be modified by a valid contract or applicable local law.
+
+Source: Transfer of Property Act, 1882, Section 108: [https://www.indiacode.nic.in/bitstream/123456789/14648/1/tpa.pdf](https://www.indiacode.nic.in/bitstream/123456789/14648/1/tpa.pdf)
+
+A tenant should comply with the rent-payment terms in the applicable agreement and retain evidence of payment. Failure to pay rent can have legal consequences, but the exact consequences depend on the applicable tenancy law, agreement, property and facts.
+
+PRACTICAL RECORD-KEEPING
+
+The following are practical recommendations, not universal statutory requirements:
+
+* Keep a signed copy of the rental/lease agreement.
+* Keep rent receipts and electronic payment confirmations.
+* Keep the security-deposit payment record.
+* Record the property's condition when moving in, preferably with dated photographs.
+* Keep written records of repair requests and the landlord's responses.
+* Keep copies of notices exchanged with the landlord.
+* Record utility payments and other agreed charges separately where practical.
+* Keep evidence of the date on which possession and keys were handed over.
+* Preserve documents concerning deductions from the security deposit.
+* Do not rely only on verbal agreements for important tenancy changes.
+
+STATE- AND FACT-SPECIFIC LIMITATIONS
+
+The Gujarat Rent Bill, 2026 is not treated as current law in this file because official evidence of Governor's assent and commencement was not verified. Do not use proposed 2026 Bill provisions such as a three-month security-deposit cap, mandatory written agreements or proposed Rent Authority procedures as current legal rights or duties without verifying an enacted law and commencement notification.
+
+The Model Tenancy Act, 2021 is a model law and is not automatically applicable in Gujarat. Its deposit, access, maintenance, notice and dispute-resolution provisions should not be presented as Gujarat law without verified adoption.
+
+A current Gujarat-wide statutory security-deposit cap, mandatory refund period, or universal deduction procedure applicable to all residential tenancies was not verified from an enacted and currently commenced Gujarat law. Check the current local law and the rental agreement.
+
+A universal statutory notice period for every residential tenant in Gujarat was not verified. Notice and termination can depend on the agreement, applicable rent-control law, property and facts.
+
+Landlord entry and inspection rights can depend on the tenancy agreement and applicable law. A universal Gujarat statutory notice period for inspection was not verified.
+
+The Gujarat Rents, Hotel and Lodging House Rates Control Act contains exemptions. Therefore, whether Sections 12, 23, 24 and 26 apply must be checked against the particular premises and current law.
+
+For disputes, the applicable court or authority depends on the nature of the tenancy and dispute. The Act contains jurisdiction provisions, including Section 28. The Gujarat High Court and subordinate courts remain official judicial sources for current court procedures.
+
+Tenants who qualify for legal aid may obtain assistance through the Gujarat High Court Legal Services Committee and applicable Gujarat State Legal Services Authority mechanisms. Eligibility is governed by Section 12 of the Legal Services Authorities Act, 1987 and applicable notifications.
+
+SOURCES
+
+Gujarat Rents, Hotel and Lodging House Rates Control Act, 1947 — Sections 12, 23, 24, 26 and 28. India Code: [https://www.indiacode.nic.in/bitstream/123456789/4655/1/rentshotelact.pdf](https://www.indiacode.nic.in/bitstream/123456789/4655/1/rentshotelact.pdf)
+
+Transfer of Property Act, 1882 — Section 108, rights and liabilities of lessor and lessee. India Code: [https://www.indiacode.nic.in/bitstream/123456789/14648/1/tpa.pdf](https://www.indiacode.nic.in/bitstream/123456789/14648/1/tpa.pdf)
+
+Legal Services Authorities Act, 1987 — Section 12, eligibility for legal services. India Code: [https://www.indiacode.nic.in/](https://www.indiacode.nic.in/)
+
+Gujarat High Court Legal Services Committee — Legal Aid: [https://gujarathighcourt.nic.in/ghclsc_legalaid](https://gujarathighcourt.nic.in/ghclsc_legalaid)
+
+Gujarat High Court Legal Services Committee — Front Office/Legal Aid Clinic: [https://gujarathighcourt.nic.in/ghclsc_frontoffice](https://gujarathighcourt.nic.in/ghclsc_frontoffice)
+
+India Code — Gujarat legislation database: [https://www.indiacode.nic.in/handle/123456789/2455](https://www.indiacode.nic.in/handle/123456789/2455)
+
+Date checked: 8 October 2026.

@@ -3,21 +3,35 @@ const fs = require("fs/promises"),
   { embed } = require("./embeddingService");
 
   
-const docs = path.join(__dirname, "../../data/documents"),
+const knowledgeBase = path.join(__dirname, "../../data/knowledge-base.json"),
+  documentsPath = path.join(__dirname, "../../data/documents"),
   out = path.join(__dirname, "../../data/embeddings/embeddings.json");
 async function rebuild() {
   await fs.mkdir(path.dirname(out), { recursive: true });
-  const names = (await fs.readdir(docs)).filter((n) => n.endsWith(".txt"));
+  const knowledgeDocuments = JSON.parse(await fs.readFile(knowledgeBase, "utf8"));
+  const textFiles = (await fs.readdir(documentsPath)).filter((name) => name.endsWith(".txt"));
+  const textDocuments = await Promise.all(
+    textFiles.map(async (name) => ({
+      id: path.parse(name).name,
+      title: path.parse(name).name.replace(/[_-]+/g, " "),
+      source: name,
+      jurisdiction: "India",
+      content: await fs.readFile(path.join(documentsPath, name), "utf8"),
+    })),
+  );
+  const documents = [...knowledgeDocuments, ...textDocuments];
   const records = [];
-  for (const source of names) {
-    const text = await fs.readFile(path.join(docs, source), "utf8");
-    const words = text.replace(/\s+/g, " ").trim().split(" ");
+  for (const document of documents) {
+    const words = document.content.replace(/\s+/g, " ").trim().split(" ");
     for (let i = 0; i < words.length; i += 575) {
       const chunk = words.slice(i, i + 650).join(" ");
       if (chunk)
         records.push({
-          chunkId: `${source}-${i}`,
-          source,
+          chunkId: `${document.id}-${i}`,
+          source: document.source || "LegalLease educational knowledge base",
+          url: document.sourceUrl,
+          title: document.title,
+          jurisdiction: document.jurisdiction,
           page: 1,
           text: chunk,
           embedding: embed(chunk),
@@ -25,7 +39,12 @@ async function rebuild() {
     }
   }
   await fs.writeFile(out, JSON.stringify(records));
-  return { documents: names.length, chunks: records.length };
+  return {
+    documents: documents.length,
+    jsonDocuments: knowledgeDocuments.length,
+    textDocuments: textDocuments.length,
+    chunks: records.length,
+  };
 }
 if (require.main === module)
   rebuild()
