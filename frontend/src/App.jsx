@@ -1194,7 +1194,7 @@ function ChatPage() {
                           ? "Outside my scope"
                           : `${message.sourceType === "web" ? "Live web search fallback" : message.sourceType === "local" ? "Local knowledge base" : "No relevant sources found"} · ${message.retrieval?.generation === "groq" ? "Groq-assisted" : "source-grounded"}`}
                       </em>
-                      {!!message.sources?.length && (
+                      {/* {!!message.sources?.length && (
                         <div className="sources">
                           {message.sources.map((source, sourceIndex) => (
                             <span
@@ -1216,8 +1216,8 @@ function ChatPage() {
                             </span>
                           ))}
                         </div>
-                      )}
-                      <details>
+                      )} */}
+                      {/* <details>
                         <summary>How this answer was sourced</summary>
                         <span>
                           Mode: {message.retrieval?.mode || "unknown"} · Local
@@ -1229,7 +1229,7 @@ function ChatPage() {
                           · Drafting:{" "}
                           {message.retrieval?.generation || "source-grounded"}
                         </span>
-                      </details>
+                      </details> */}
                     </>
                   )}
                 </div>
